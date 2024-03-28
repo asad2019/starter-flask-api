@@ -4,7 +4,6 @@ itsdangerous==2.1.2
 python-dotenv==1.0.0
 uvicorn==0.22.0
 waitress==2.1.2
-Werkzeug==2.3.4
 blinker==1.7.0
 bs4==0.0.2
 certifi==2024.2.2
@@ -35,3 +34,4 @@ tzdata==2024.1
 urllib3==2.2.1
 validators==0.23.2
 watchdog==4.0.0
+Werkzeug==3.0.1
